@@ -1,0 +1,34 @@
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\bin\Debug\CBIRS Version 2.exe.config
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\bin\Debug\CBIRS Version 2.exe
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\bin\Debug\CBIRS Version 2.pdb
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRSVer2.csprojResolveAssemblyReference.cache
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\MainWindow.baml
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\App.g.cs
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRS Version 2_MarkupCompile.cache
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRS Version 2.g.resources
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRSVer2.Properties.Resources.resources
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRSVer2.csproj.GenerateResource.Cache
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRS Version 2.exe
+C:\Users\phank\documents\visual studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRS Version 2.pdb
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\WPFTutorial\bin\Debug\CBIRS Version 2.exe.manifest
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\WPFTutorial\bin\Debug\CBIRS Version 2.application
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRS Version 2.exe.manifest
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\WPFTutorial\obj\Debug\CBIRS Version 2.application
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\bin\Debug\CBIRS Version 2.exe.config
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\bin\Debug\CBIRS Version 2.exe.manifest
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\bin\Debug\CBIRS Version 2.application
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\bin\Debug\CBIRS Version 2.exe
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\bin\Debug\CBIRS Version 2.pdb
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRSVer2.csprojResolveAssemblyReference.cache
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\MainWindow.baml
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\MainWindow.g.cs
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\App.g.cs
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRS Version 2_MarkupCompile.cache
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRS Version 2.g.resources
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRSVer2.Properties.Resources.resources
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRSVer2.csproj.GenerateResource.Cache
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRS Version 2.exe.manifest
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRS Version 2.application
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRS Version 2.exe
+C:\Users\phank\Documents\Visual Studio 2017\Projects\WPFTutorial\CBIRSVer2\obj\Debug\CBIRS Version 2.pdb
